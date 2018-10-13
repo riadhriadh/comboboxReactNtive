@@ -2,27 +2,10 @@
 <html>
 <head>
 <style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-img {
-    height: 400px;
-}
-td, th {
-border: 1px solid #dddddd;
-text-align: left;
-padding: 8px;
-}tr:nth-child(even) {
-background-color: #dddddd;
-}
 </style>
-
 <meta charset="UTF-8">
 <title>combobox react native</title>
 </head>
-
 <body>
 <center>  combobox react native</center>
 <br/>
