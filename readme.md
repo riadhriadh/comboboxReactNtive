@@ -7,6 +7,9 @@ table {
     border-collapse: collapse;
     width: 100%;
 }
+img {
+    height: 400px;
+}
 
 td, th {
 border: 1px solid #dddddd;
@@ -26,9 +29,9 @@ background-color: #dddddd;
 <body>
 <center>  combobox react native</center>
 <br/>
-<img src="http://drive.google.com/open?id=1yGqMiqQTRn4p1Tbe9ogfGJhSWAOOSWGY"/>
+<img src="./img/Screen1.png"/>
 <br/>
-<img src="http://drive.google.com/open?id=1v2vU2V7UaXZiMPTQIUwBlU9n8wryIPKm"/>
+<img src="./img/Screen2.png"/>
 <br/>
 <h4> required install   react-native-vector-icons</h4>
 <a href="https://www.npmjs.com/package/react-native-vector-icons"> react-native-vector-icons</a>
