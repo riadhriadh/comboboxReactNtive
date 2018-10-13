@@ -18,6 +18,12 @@ npm i react-native-vector-icons
 
 </pre>
 <br/>
+pour installer : <a href="https://www.npmjs.com/package/combobox-react-native"> combobox-react-native</a>
+
+<pre class="editor editor-colors">
+npm i combobox-react-native
+</pre>
+<br/>
 <h2>List option</h2>
 
 <table>
